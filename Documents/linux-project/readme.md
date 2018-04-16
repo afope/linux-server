@@ -1,4 +1,4 @@
-# Udacity Full Stack Web Developer Nanodegree - Linux Server Configuration Project
+# Linux Server Configuration Project
 
 
 Host Name: http://ec2-35-178-56-64.eu-west-2.compute.amazonaws.com/
